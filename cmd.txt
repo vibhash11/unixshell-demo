@@ -1,0 +1,3 @@
+/bin/ls
+pwd
+/bin/ls && pwd
